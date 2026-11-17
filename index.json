@@ -3103,16 +3103,16 @@
             "type": "script",
             "name": "Veytharion's Gauntlet",
             "author": "DellxCell",
-            "version": "1.1.3",
+            "version": "1.2.1",
             "description": "Survival-style arena in Rex Infernus' copy of the Ashes boss arena. Appears in Zombies > Survival.",
-            "image": "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/preview.jpg",
+            "image": "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/preview.jpg",
             "files": [
                 {
                     "name": "images/rex_arena_intro_1.png",
                     "size": 5289624,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/rex_arena_intro_1.png"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_intro_1.png"
                     ]
                 },
                 {
@@ -3120,7 +3120,7 @@
                     "size": 6058272,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/rex_arena_intro_2.png"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_intro_2.png"
                     ]
                 },
                 {
@@ -3128,7 +3128,7 @@
                     "size": 5069467,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/rex_arena_intro_3.png"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_intro_3.png"
                     ]
                 },
                 {
@@ -3136,7 +3136,7 @@
                     "size": 5265861,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/rex_arena_intro_4.png"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_intro_4.png"
                     ]
                 },
                 {
@@ -3144,7 +3144,7 @@
                     "size": 13169,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/rex_arena_void_talon.png"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/rex_arena_void_talon.png"
                     ]
                 },
                 {
@@ -3152,7 +3152,7 @@
                     "size": 152469,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/zm_rex_arena_post.lua"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/zm_rex_arena_post.lua"
                     ]
                 },
                 {
@@ -3160,15 +3160,15 @@
                     "size": 218,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/mod.json"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/mod.json"
                     ]
                 },
                 {
                     "name": "scripts/zm_rex_arena.gsc",
-                    "size": 511297,
+                    "size": 512269,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/zm_rex_arena.gsc"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/zm_rex_arena.gsc"
                     ]
                 },
                 {
@@ -3176,7 +3176,7 @@
                     "size": 1293,
                     "hash": "",
                     "urls": [
-                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.1.3/zm_rex_arena_tyr.gsc"
+                        "https://github.com/DellxCell/Veytharion-Gauntlet/releases/download/v1.2.1/zm_rex_arena_tyr.gsc"
                     ]
                 }
             ]
